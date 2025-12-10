@@ -44,9 +44,6 @@ end
 endmodule
 ```
 
-Developed by: RegisterNumber:
-
-*/
 
 **RTL LOGIC FOR SISO Shift Register**
 
